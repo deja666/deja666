@@ -3,7 +3,7 @@
 ## `> whoami`
 
 ```yaml
-name: Hadi Van Deja
+name: Hadi Van Jati
 role: Cyber Security Enthusiast & Full Stack Developer
 focus:
   - Web Offensive Security
