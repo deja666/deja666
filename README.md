@@ -17,72 +17,21 @@ ask_me_about: Web Vulnerabilities & Web Development
 
 <br clear="right"/>
 
----
-
-## `> ls ./skills`
-
-<div align="center">
-
-### 🔐 Security Stack
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-
-### 💻 Programming & Markup Languages
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://custom-icon-badges.demolab.com/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### ⚙️ Frameworks & Libraries
-
-![Tailwind](https://img.shields.io/badge/Tailwind-2986cc?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-
-
-### 🗄️ Database & Infrastructure
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
 ## `> ./stats.sh`
 
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=deja666&theme=github-dark-blue&border=99a0ff&ring=99a0ff&fire=ff6b6b&currStreakLabel=99a0ff)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deja666&layout=compact&theme=github_dark&hide_border=true&count_private=true&langs_count=10)](https://github.com/deja666)
+
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/3739d34d-a12a-4277-9baa-ba47aa196195/thumbnail" >
+</p>
+
 </div>
 
----
-
-## `> connect --all`
-
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-0VPriv-005CED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0VPriv)
-[![GitHub](https://img.shields.io/badge/GitHub-deja666-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deja666)
-
-<br/>
 
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
