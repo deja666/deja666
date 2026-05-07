@@ -23,7 +23,6 @@ ask_me_about: Web Vulnerabilities & Web Development
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=deja666&theme=github-dark-blue&border=99a0ff&ring=99a0ff&fire=ff6b6b&currStreakLabel=99a0ff)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deja666&layout=compact&theme=github_dark&hide_border=true&count_private=true&langs_count=10)](https://github.com/deja666)
 
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/3739d34d-a12a-4277-9baa-ba47aa196195/thumbnail" >
